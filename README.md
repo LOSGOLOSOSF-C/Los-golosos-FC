@@ -1,2 +1,2 @@
-# Los-golosos-FC
+# LosgolososFC
 Liguilla de futebol
